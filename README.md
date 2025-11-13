@@ -10,6 +10,7 @@
 **🎓 University of Malaya (UM)** 
 
 *Master of Data Science*  | Oct 2024 – Oct 2025
+
 **CGPA:** 3.86 / 4.00  
 
 **🎓 National University of Malaysia (UKM)** – *Bachelor of Actuarial Science*  
