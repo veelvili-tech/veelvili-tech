@@ -63,8 +63,8 @@ Machine Learning • Data Visualization • Data Analytics • Predictive Modeli
 
 ## 📜 Certificates  
 
-- Google Cloud **Data Analytics** | e-Certificate  
-- **Introduction to AI and Machine Learning on Google Cloud** | e-Certificate  
+- Google Cloud **Data Analytics** | [e-Certificate](https://www.cloudskillsboost.google/public_profiles/a6e87460-ee10-4575-b110-83daccd1e837)   
+- **Introduction to AI and Machine Learning on Google Cloud** | [e-Certificate ](https://www.cloudskillsboost.google/public_profiles/a6e87460-ee10-4575-b110-83daccd1e837) 
 
 ---
 
