@@ -1,7 +1,8 @@
 # 👋 Hi, I'm Veelvili Sambathu  
 
 📍 Kuala Lumpur, Malaysia  
-📧 veelvili.tech@gmail.com | 🌐 [LinkedIn](https://www.linkedin.com/in/veelvili)  
+📧 veelvili.tech@gmail.com 
+🌐 [LinkedIn](https://www.linkedin.com/in/veelvili)  
 
 ---
 
