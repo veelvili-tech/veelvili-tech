@@ -20,11 +20,14 @@
 
 ### 🏢 **Hong Leong MSIG Takaful** – *Product Development Executive*  
 📅 May 2023 – May 2025 | Kuala Lumpur, MY  
-- Analyzed monthly product purchase data to identify performance trends and customer behavior, supporting product strategy and pricing decisions.  
-- Built Excel-based dashboards and reports to visualize sales performance and market trends.  
-- Collaborated cross-functionally (Actuarial, IT, Operations, Marketing) to ensure smooth product development and implementation.  
-- Conducted competitive and market analysis to identify product gaps and drive innovation.  
-- Served as Secretary for the Product Approval and Evaluation Committee (PAEC), managing approvals and documentation.  
+- Analyzed monthly product purchase data to identify performance trends, customer behavior, and insights for pricing and strategy decisions.
+- Built Excel dashboards and visualizations to present sales performance, product mix, and market trends to management.
+- Prepared reports and presentations summarizing actionable insights for data-driven decision-making.
+- Managed regulatory, system, and product update projects, ensuring compliance with industry standards and company policies.
+- Developed and reviewed product collaterals (Certificates, Brochures, Benefit Illustrations, Proposal Forms, Product Disclosure Sheets) for accuracy and compliance.
+- Conducted market and competitive analysis to identify product gaps and opportunities for innovation.
+- Designed and performed User Acceptance Testing (UAT) for product tools and documentation, ensuring accuracy and usability.
+- Collaborated with Actuarial, IT, Operations, and Marketing teams to support smooth product development and implementation.  
 
 ### 🏦 **Public Bank Berhad** – *Management Trainee (MIS & Accounting Division)*  
 📅 Nov 2022 – May 2023 | Kuala Lumpur, MY  
