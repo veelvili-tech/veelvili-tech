@@ -57,7 +57,7 @@
 ## 🛠 Technical Expertise  
 
 **Languages & Tools:**  
-`Python` `RStudio` `SQL` `SPSS` `Power BI` `Tableau` `Excel` `Snowflake` `Google Cloud Platform` `Microsoft Office`  
+`Python` `RStudio` `SQL` `Power BI` `SAS` `Tableau` `Excel` `Snowflake` `Google Cloud Platform` `Microsoft Office`  
 
 **Domains:**  
 Machine Learning • Data Visualization • Data Analytics • Predictive Modeling  
