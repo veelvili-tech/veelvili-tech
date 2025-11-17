@@ -43,12 +43,11 @@
 
 ## 🧠 Projects  
 
-- **Stock Price Prediction Using Hybrid Models and Geopolitical Risk Index**  
+- **Built Hybrid Model for Stock Price Prediction using GPR and Technical Indicators**  
 - **Bank Customer Churn Prediction**  
-- **Tracking Electric Vehicle Growth & Impact with Data Analytics**  
-- **Heart Disease Prediction Model**  
+- **Electric Vehicle Growth Analytics for Sustainable Transport**  
+- **Heart Disease Prediction using Machine Learning Models**  
 - **Breast Tumor Classification (Malignant vs. Benign)**  
-- **AI-Driven Predictive Modeling for Early Detection of Patient Health Deterioration**  
 
 ---
 
