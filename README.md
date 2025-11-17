@@ -43,11 +43,11 @@
 
 ## 🧠 Projects  
 
-- **Built Hybrid Model for Stock Price Prediction using GPR and Technical Indicators**  
+- [**Built Hybrid Model for Stock Price Prediction using GPR and Technical Indicators**](https://github.com/veelvili-tech/Stock-Price-Prediction-using-GPR-and-Technical-Indicators)  
 - [**Bank Customer Churn Prediction**](https://github.com/veelvili-tech/Bank-Customer-Churn-Prediction) 
-- **Electric Vehicle Growth Analytics for Sustainable Transport**  
-- **Heart Disease Prediction using Machine Learning Models**  
-- **Breast Tumor Classification (Malignant vs. Benign)**  
+- [**Electric Vehicle Growth Analytics for Sustainable Transport**](https://github.com/veelvili-tech/Electric-Vehicle-Growth-Analytics-for-Sustainable-Transport)  
+- [**Heart Disease Prediction using Machine Learning Models**](https://github.com/veelvili-tech/Heart-Disease-Prediction-using-Machine-Learning)  
+- [**Breast Tumor Classification (Malignant vs. Benign)**](https://github.com/veelvili-tech/Breast-Tumor-Classification-Malignant-vs.-Benign-)  
 
 ---
 
