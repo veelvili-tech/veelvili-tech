@@ -44,7 +44,7 @@
 ## 🧠 Projects  
 
 - **Built Hybrid Model for Stock Price Prediction using GPR and Technical Indicators**  
-- **Bank Customer Churn Prediction**  
+- **Bank Customer Churn Prediction**  | https://github.com/veelvili-tech/Bank-Customer-Churn-Prediction 
 - **Electric Vehicle Growth Analytics for Sustainable Transport**  
 - **Heart Disease Prediction using Machine Learning Models**  
 - **Breast Tumor Classification (Malignant vs. Benign)**  
