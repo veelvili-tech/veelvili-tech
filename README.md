@@ -8,13 +8,13 @@
 
 ## 🧠 Projects  
 
-- [**Insurance Risk and Claim Analysis using PowerBI**](https://github.com/veelvili-tech/Insurance-Risk-and-Claim-Analysis)
-- [**Bank Loan Report Using SQL and PowerBI**](https://github.com/veelvili-tech/Bank-Loan-Performance-Report)
-- [**Bank Customer Churn Prediction**](https://github.com/veelvili-tech/Bank-Customer-Churn-Prediction) 
-- [**Heart Disease Prediction using Machine Learning Models**](https://github.com/veelvili-tech/Heart-Disease-Prediction-using-Machine-Learning)  
-- [**Breast Tumor Classification (Malignant vs. Benign)**](https://github.com/veelvili-tech/Breast-Tumor-Classification-Malignant-vs.-Benign-)  
-- [**Electric Vehicle Growth Analytics for Sustainable Transport**](https://github.com/veelvili-tech/Electric-Vehicle-Growth-Analytics-for-Sustainable-Transport)  
-- [**Built Hybrid Model for Stock Price Prediction using GPR and Technical Indicators**](https://github.com/veelvili-tech/Stock-Price-Prediction-using-GPR-and-Technical-Indicators)
+- [Data Analytics] [**Insurance Risk and Claim Analysis using PowerBI**](https://github.com/veelvili-tech/Insurance-Risk-and-Claim-Analysis)
+- [Data Analytics] [**Bank Loan Report Using SQL and PowerBI**](https://github.com/veelvili-tech/Bank-Loan-Performance-Report)
+- [Data Science][**Bank Customer Churn Prediction**](https://github.com/veelvili-tech/Bank-Customer-Churn-Prediction) 
+- [Data Science] [**Heart Disease Prediction using Machine Learning Models**](https://github.com/veelvili-tech/Heart-Disease-Prediction-using-Machine-Learning)  
+- [Data Science] [**Breast Tumor Classification (Malignant vs. Benign)**](https://github.com/veelvili-tech/Breast-Tumor-Classification-Malignant-vs.-Benign-)  
+- [Data Science] [**Electric Vehicle Growth Analytics for Sustainable Transport**](https://github.com/veelvili-tech/Electric-Vehicle-Growth-Analytics-for-Sustainable-Transport)  
+- [Data Science] [**Built Hybrid Model for Stock Price Prediction using GPR and Technical Indicators**](https://github.com/veelvili-tech/Stock-Price-Prediction-using-GPR-and-Technical-Indicators)
 
 ---
 
