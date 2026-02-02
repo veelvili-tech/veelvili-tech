@@ -14,10 +14,11 @@
 - [**Bank Loan Report Using SQL and PowerBI**](https://github.com/veelvili-tech/Bank-Loan-Performance-Report)
 
 ### Data Science and Machine learning
-- [**Bank Customer Churn Prediction**](https://github.com/veelvili-tech/Bank-Customer-Churn-Prediction) 
+- [**Bank Customer Churn Prediction**](https://github.com/veelvili-tech/Bank-Customer-Churn-Prediction)
+- [**Built Hybrid Model for Stock Price Prediction using GPR and Technical Indicators**](https://github.com/veelvili-tech/Stock-Price-Prediction-using-GPR-and-Technical-Indicators)
 - [**Heart Disease Prediction using Machine Learning Models**](https://github.com/veelvili-tech/Heart-Disease-Prediction-using-Machine-Learning)  
 - [**Breast Tumor Classification (Malignant vs. Benign)**](https://github.com/veelvili-tech/Breast-Tumor-Classification-Malignant-vs.-Benign-)  
-- [**Built Hybrid Model for Stock Price Prediction using GPR and Technical Indicators**](https://github.com/veelvili-tech/Stock-Price-Prediction-using-GPR-and-Technical-Indicators)
+
 
 ---
 
