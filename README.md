@@ -6,6 +6,33 @@
 
 ---
 
+## 🧠 Projects  
+
+- [**Built Hybrid Model for Stock Price Prediction using GPR and Technical Indicators**](https://github.com/veelvili-tech/Stock-Price-Prediction-using-GPR-and-Technical-Indicators)  
+- [**Bank Customer Churn Prediction**](https://github.com/veelvili-tech/Bank-Customer-Churn-Prediction) 
+- [**Electric Vehicle Growth Analytics for Sustainable Transport**](https://github.com/veelvili-tech/Electric-Vehicle-Growth-Analytics-for-Sustainable-Transport)  
+- [**Heart Disease Prediction using Machine Learning Models**](https://github.com/veelvili-tech/Heart-Disease-Prediction-using-Machine-Learning)  
+- [**Breast Tumor Classification (Malignant vs. Benign)**](https://github.com/veelvili-tech/Breast-Tumor-Classification-Malignant-vs.-Benign-)  
+
+---
+
+## 🛠 Technical Expertise  
+
+**Languages & Tools:**  
+`Python` `RStudio` `SQL` `Power BI` `SAS` `Tableau` `Excel` `Snowflake` `Google Cloud Platform` `Microsoft Office`  
+
+**Domains:**  
+Machine Learning • Data Visualization • Data Analytics • Predictive Modeling  
+
+---
+
+## 📜 Certificates  
+
+- Google Cloud **Data Analytics** | [e-Certificate](https://www.cloudskillsboost.google/public_profiles/a6e87460-ee10-4575-b110-83daccd1e837)   
+- **Introduction to AI and Machine Learning on Google Cloud** | [e-Certificate ](https://www.cloudskillsboost.google/public_profiles/a6e87460-ee10-4575-b110-83daccd1e837) 
+
+---
+
 ## 🎓 Education  
 
 **🎓 University of Malaya (UM)** - *Master of Data Science*  
@@ -41,33 +68,6 @@
 - Conducted a **Customer Segmentation Project** using machine learning in Python, SPSS, and RStudio.  
 - Delivered actionable insights on customer profiles and marketing strategies.  
 - Presented analytical results to senior management and contributed to business decisions.  
-
----
-
-## 🧠 Projects  
-
-- [**Built Hybrid Model for Stock Price Prediction using GPR and Technical Indicators**](https://github.com/veelvili-tech/Stock-Price-Prediction-using-GPR-and-Technical-Indicators)  
-- [**Bank Customer Churn Prediction**](https://github.com/veelvili-tech/Bank-Customer-Churn-Prediction) 
-- [**Electric Vehicle Growth Analytics for Sustainable Transport**](https://github.com/veelvili-tech/Electric-Vehicle-Growth-Analytics-for-Sustainable-Transport)  
-- [**Heart Disease Prediction using Machine Learning Models**](https://github.com/veelvili-tech/Heart-Disease-Prediction-using-Machine-Learning)  
-- [**Breast Tumor Classification (Malignant vs. Benign)**](https://github.com/veelvili-tech/Breast-Tumor-Classification-Malignant-vs.-Benign-)  
-
----
-
-## 🛠 Technical Expertise  
-
-**Languages & Tools:**  
-`Python` `RStudio` `SQL` `Power BI` `SAS` `Tableau` `Excel` `Snowflake` `Google Cloud Platform` `Microsoft Office`  
-
-**Domains:**  
-Machine Learning • Data Visualization • Data Analytics • Predictive Modeling  
-
----
-
-## 📜 Certificates  
-
-- Google Cloud **Data Analytics** | [e-Certificate](https://www.cloudskillsboost.google/public_profiles/a6e87460-ee10-4575-b110-83daccd1e837)   
-- **Introduction to AI and Machine Learning on Google Cloud** | [e-Certificate ](https://www.cloudskillsboost.google/public_profiles/a6e87460-ee10-4575-b110-83daccd1e837) 
 
 ---
 
