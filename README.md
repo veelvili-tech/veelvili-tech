@@ -14,6 +14,8 @@
 - [**Bank Loan Report Using SQL and PowerBI**](https://github.com/veelvili-tech/Bank-Loan-Performance-Report)
 
 ### Data Science and Machine learning
+
+- [**AI Powered Video Object Detection for Retail Intelligence**](https://github.com/veelvili-tech/AI-Powered-Video-Object-Detection-for-Retail-Intelligence)
 - [**Bank Customer Churn Prediction**](https://github.com/veelvili-tech/Bank-Customer-Churn-Prediction)
 - [**Built Hybrid Model for Stock Price Prediction using GPR and Technical Indicators**](https://github.com/veelvili-tech/Stock-Price-Prediction-using-GPR-and-Technical-Indicators)
 - [**Heart Disease Prediction using Machine Learning Models**](https://github.com/veelvili-tech/Heart-Disease-Prediction-using-Machine-Learning)  
