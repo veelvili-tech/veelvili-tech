@@ -8,11 +8,6 @@
 
 ## 🧠 Projects  
 
-### Data Analytics
-
-- [**Insurance Risk and Claim Analysis using PowerBI**](https://github.com/veelvili-tech/Insurance-Risk-and-Claim-Analysis)
-- [**Bank Loan Report Using SQL and PowerBI**](https://github.com/veelvili-tech/Bank-Loan-Performance-Report)
-
 ### Data Science and Machine learning
 
 - [**AI Powered Video Object Detection for Retail Intelligence**](https://github.com/veelvili-tech/AI-Powered-Video-Object-Detection-for-Retail-Intelligence)
@@ -21,6 +16,10 @@
 - [**Heart Disease Prediction using Machine Learning Models**](https://github.com/veelvili-tech/Heart-Disease-Prediction-using-Machine-Learning)  
 - [**Breast Tumor Classification (Malignant vs. Benign)**](https://github.com/veelvili-tech/Breast-Tumor-Classification-Malignant-vs.-Benign-)  
 
+### Data Analytics
+
+- [**Insurance Risk and Claim Analysis using PowerBI**](https://github.com/veelvili-tech/Insurance-Risk-and-Claim-Analysis)
+- [**Bank Loan Report Using SQL and PowerBI**](https://github.com/veelvili-tech/Bank-Loan-Performance-Report)
 
 ---
 
