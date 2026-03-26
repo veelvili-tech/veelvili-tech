@@ -10,6 +10,7 @@
 
 ### Data Science and Machine learning
 
+-[**End-to-End Cloud-Based Data Pipeline for EV Population Analytics (GCP & Snowflake)**](https://github.com/veelvili-tech/End-to-End-Cloud-Based-Data-Pipeline-for-EV-Population-Analytics-GCP-Snowflake-)
 - [**Big Data Pipeline - Greenhouse Gas Emissions Analysis (Hive & HBase on Cloudera)**](https://github.com/veelvili-tech/Big-Data-Application-and-Analytics)
 - [**Bank Customer Churn Prediction**](https://github.com/veelvili-tech/Bank-Customer-Churn-Prediction)
 - [**Built Hybrid Model for Stock Price Prediction using GPR and Technical Indicators**](https://github.com/veelvili-tech/Stock-Price-Prediction-using-GPR-and-Technical-Indicators)
