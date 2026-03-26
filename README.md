@@ -74,16 +74,28 @@ Machine Learning • Data Visualization • Data Analytics • Predictive Modeli
 
 ### 🏦 **Public Bank Berhad** – *Management Trainee (MIS & Accounting Division)*  
 📅 Nov 2022 – May 2023 | Kuala Lumpur, MY  
-- Collaborated with IT teams to enhance data pipelines and improve data accuracy.  
-- Supported data migration, validation, and data mart creation within the MIS department.  
-- Prepared regulatory and management reports in compliance with central bank standards.  
-- Analyzed customer data using **SAS** for insights and reporting.  
+**Data Collaboration & Infrastructure**
+-	Acted as liaison between business units and IT/Data Engineering teams to enhance existing internal datasets upon business request, define data requirements, and improve pipeline accessibility for reporting and decision-making.
+-	Supported data infrastructure development by performing data validation using SAS within the MIS department, ensuring data quality standards were met ahead of reporting cycles.
+-	
+**Data Analysis & Reporting**
+-	Extracted and analysed customer data using SAS to support branch and management information requests.
+-	Built and maintained Tableau dashboards designed to instantly refresh visuals upon data upload, streamlining profitability reporting for Finance and senior management.
+-	
+**Project Support & Coordination**
+-	Assisted the Project Management Office (PMO) in work plan tracking, timeline management, and project coordination.
+ 
 
 ### 💡 **Allianz Life Insurance Malaysia** – *Intern, Business Analytics Department*  
 📅 Mar 2022 – Aug 2022 | Kuala Lumpur, MY  
-- Conducted a **Customer Segmentation Project** using machine learning in Python, SPSS, and RStudio.  
-- Delivered actionable insights on customer profiles and marketing strategies.  
-- Presented analytical results to senior management and contributed to business decisions.  
+**Customer Segmentation & Analysis**
+-	Conducted a Customer Segmentation Project analyzing customer purchasing behaviour using policy listing and claims data.
+-	Applied statistical modelling and machine learning tools such as Python, SPSS, RStudio, and Excel to segment and model customer profiles.
+  
+**Insights & Strategy Delivery**
+-	Delivered key insights and presented segmentation strategies to the Business Analytics Department and leadership.
+-	Mapped customer needs, servicing approaches, and marketing strategies for each identified segment.
+
 
 ---
 
