@@ -55,14 +55,19 @@ Machine Learning • Data Visualization • Data Analytics • Predictive Modeli
 
 ### 🏢 **Hong Leong MSIG Takaful** – *Product Development Executive*  
 📅 May 2023 – May 2025 | Kuala Lumpur, MY  
-- Analyzed monthly product purchase data to identify performance trends, customer behavior, and insights for pricing and strategy decisions.
-- Built Excel dashboards and visualizations to present sales performance, product mix, and market trends to management.
-- Prepared reports and presentations summarizing actionable insights for data-driven decision-making.
-- Managed regulatory, system, and product update projects, ensuring compliance with industry standards and company policies.
-- Developed and reviewed product collaterals (Certificates, Brochures, Benefit Illustrations, Proposal Forms, Product Disclosure Sheets) for accuracy and compliance.
-- Conducted market and competitive analysis to identify product gaps and opportunities for innovation.
-- Designed and performed User Acceptance Testing (UAT) for product tools and documentation, ensuring accuracy and usability.
-- Collaborated with Actuarial, IT, Operations, and Marketing teams to support smooth product development and implementation.  
+Data Analysis & Business Insights
+•	Validated and analysed monthly product data and financial records to identify trends and gaps, directly influencing data-driven decision-making for senior leadership.
+•	Maintained and optimized analytical reporting and dashboards to monitor market positioning and support strategic planning initiatives.
+•	Conducted competitor and market intelligence analyses to benchmark product performance and identify business development opportunities.
+Cross-Functional Collaboration
+•	Partnered with Actuarial, IT, Operations, and Marketing teams to translate business needs into data requirements and deliver actionable analytical insights.
+•	Facilitated structured stakeholder walkthroughs to validate requirements, resolve ambiguities, and secure sign-off ahead of product launches and system changes ensuring cross-team alignment throughout the SDLC.
+Product Development & Compliance
+•	Led end-to-end User Acceptance Testing (UAT) for analytical and documentation systems including Benefit Illustration tools and Product Disclosure Sheet platforms defining test cases, tracking defects, and managing go-live readiness.
+•	Developed and reviewed product collaterals (Certificates, Brochures, Proposal Forms, Benefit Illustrations, Product Disclosure Sheets) for regulatory accuracy and compliance.
+Governance & Strategic Coordination
+•	Served as Secretary to the Product Approval and Evaluation Committee (PAEC), designing and maintaining product approval workflows, coordinating multi-stakeholder sign-offs, and ensuring governance documentation accuracy.
+
 
 ### 🏦 **Public Bank Berhad** – *Management Trainee (MIS & Accounting Division)*  
 📅 Nov 2022 – May 2023 | Kuala Lumpur, MY  
