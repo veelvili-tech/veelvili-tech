@@ -77,15 +77,14 @@ Machine Learning • Data Visualization • Data Analytics • Predictive Modeli
 **Data Collaboration & Infrastructure**
 -	Acted as liaison between business units and IT/Data Engineering teams to enhance existing internal datasets upon business request, define data requirements, and improve pipeline accessibility for reporting and decision-making.
 -	Supported data infrastructure development by performing data validation using SAS within the MIS department, ensuring data quality standards were met ahead of reporting cycles.
--	
+
 **Data Analysis & Reporting**
 -	Extracted and analysed customer data using SAS to support branch and management information requests.
 -	Built and maintained Tableau dashboards designed to instantly refresh visuals upon data upload, streamlining profitability reporting for Finance and senior management.
--	
+
 **Project Support & Coordination**
 -	Assisted the Project Management Office (PMO) in work plan tracking, timeline management, and project coordination.
  
-
 ### 💡 **Allianz Life Insurance Malaysia** – *Intern, Business Analytics Department*  
 📅 Mar 2022 – Aug 2022 | Kuala Lumpur, MY  
 **Customer Segmentation & Analysis**
@@ -95,7 +94,6 @@ Machine Learning • Data Visualization • Data Analytics • Predictive Modeli
 **Insights & Strategy Delivery**
 -	Delivered key insights and presented segmentation strategies to the Business Analytics Department and leadership.
 -	Mapped customer needs, servicing approaches, and marketing strategies for each identified segment.
-
 
 ---
 
